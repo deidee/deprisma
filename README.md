@@ -1,4 +1,4 @@
-# ![deprima](https://deidee.com/logo.svg?str=dePrisma)
+# ![deprima](https://deidee.com/logo.png?str=dePrisma)
 
 Thema voor [Prism](https://prismjs.com/).
 
